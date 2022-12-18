@@ -1,5 +1,5 @@
 💫 About Me:
-👋 Hi, I’m @vedatkara. I was born in Istanbul in 2001.<br>🏫 CS student at Dokuz Eylul University, Izmir, Turkiye.<br>🌱 I’m currently learning Python, Java and C#<br>📫 You can reach me on Instagram and LinkedIn
+👋 Hi, I’m @vedatkara. I was born in Istanbul in 2001.<br>🏫 CS student at Dokuz Eylul University, Izmir, Turkiye.<br>🌱 I’m currently learning Python, Java and C#<br>
 
 
 ## 🌐 Socials:

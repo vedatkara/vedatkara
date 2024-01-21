@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @vedatkara. I was born in Istanbul in 2001.<br>🏫 CS student at Dokuz Eylul University, Izmir, Turkiye.<br>🌱 I’m currently learning Java Spring Boot<br>
+👋 Hi, I’m @vedatkara. I was born in Istanbul in 2001.<br>🏫 CS student at Dokuz Eylul University, Izmir, Turkiye.<br>🌱 I’m currently learning on Backend Web Development<br>
 
 
 ## 🌐 Socials:
